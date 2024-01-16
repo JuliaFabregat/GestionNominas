@@ -43,7 +43,7 @@ namespace GestionNominas_v1
         }
 
         public string ApellidosEmpleado{
-            ger {
+            get {
                 // Control de Contenido
                 
                 
