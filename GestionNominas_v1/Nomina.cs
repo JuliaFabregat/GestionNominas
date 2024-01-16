@@ -41,5 +41,23 @@ namespace GestionNominas_v1
                 _nombre = value;
             }
         }
+
+        public string ApellidosEmpleado{
+            ger {
+                // Control de Contenido
+                
+                
+                // Devolución del valor
+                return _apellidos;
+            }
+            set{
+                // Validación de los Datos a establecer
+
+                
+                // Establecimiento del valor al miembro provado
+                _apellidos = value;
+            }
+        }
+        
     }
 }
